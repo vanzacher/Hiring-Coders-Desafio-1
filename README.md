@@ -2,7 +2,7 @@
 
 ## Sobre o desafio
 
-O desafio consiste em construir o Front End de uma Landing Page onde o usuário deve cadadastrar o nome e e-mail para receber o desconto, estes dados são salvos no localStorage. 
+O desafio consiste em construir o Front End de uma Landing Page onde o usuário deve cadastrar o nome e e-mail para receber o desconto, estes dados são salvos no localStorage. 
 Evento organizado pela [Gama Academy](https://www.gama.academy "Site da Gama Academy") em parceria com diversos parceiros.
 
 Link do projeto Web: https://van-zacher.netlify.app/
