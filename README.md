@@ -9,7 +9,7 @@ Link do projeto Web: https://van-zacher.netlify.app/
 
 # Tecnologias utilizadas
 
-## Front End e Front Mobile
+## Front End
 
  - HTML
  - CSS
